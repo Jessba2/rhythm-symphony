@@ -8,6 +8,7 @@ This is a rhythm game.
 ## Build and Run
 //TODO Explanation of how to build and run the program
 
+## Current State and Issues
 //TODO Information about bugs, defects, failing tests, etc
 
 ## Contributing
