@@ -7,10 +7,14 @@ This is a rhythm game.
 
 ## Build and Run
 //TODO Explanation of how to build and run the program
+
 //TODO Information about bugs, defects, failing tests, etc
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. 
+
+For major changes, please open an issue first to discuss what you would like to change.
+
 Please make sure to update tests as appropriate.
 
 ## License
