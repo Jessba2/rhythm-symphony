@@ -16,7 +16,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Please make sure to update tests as appropriate.
 
-## Contributor Code of Conduct
 Please note that this project is released with a Contributor Code of Conduct. 
 
 By participating in this project you agree to abide by its terms.
