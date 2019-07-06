@@ -16,5 +16,12 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Please make sure to update tests as appropriate.
 
+## Contributor Code of Conduct
+Please note that this project is released with a Contributor Code of Conduct. 
+
+By participating in this project you agree to abide by its terms.
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
+
 ## License
 This program is licensed under the "GNU General Public License".  
