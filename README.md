@@ -1,12 +1,10 @@
 # rhythm-symphony
 Copyright (c) 2019 Thomas Honnell and Jessica Barnett
 
-This is a rhythm game. 
-
-//TODO Explanation of what the program is and does with example
+This is a rhythm game. Players will try to match given rhythems and patterns.
 
 ## Build and Run
-//TODO Explanation of how to build and run the program
+//TODO 
 
 ## Project Status
 We are in the beginning stages of building this project. There is no MVP yet!
